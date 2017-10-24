@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# Happy Birthday Aelae!
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I was at a complete loss as to what to get or do for your birthday (seeing as I wasn't allowed to sing Happy Birthday on Discord).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Then, I remembered you wanted to become a streamer and that you used to write.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+So here it is, your own streamer blog. Use it however you like!
+
+Ridha.
