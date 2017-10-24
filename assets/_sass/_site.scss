@@ -510,18 +510,13 @@ canvas {
       }
     }
   }
-  .tags li > a {
-    color: lighten($black, 28%);
-  }
 }
 
 .tags {
   margin-top: 20px;
   > li {
     display: inline-block;
-    background: darken($white, 5%);
     padding: 7px 10px;
-    color: lighten($black, 28%);
     font-size: 11px;
     text-transform: uppercase;
     > a {
