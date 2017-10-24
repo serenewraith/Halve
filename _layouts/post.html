@@ -10,8 +10,8 @@ layout: compress
     <div class="block-left">
       <div class="content">
         <div class="post-title-section">
-          <div class="section-line"><a href="{{ site.url }}">Home <em>/</em></a></div>
-          <h1 class="section-title">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          <div class="section-line"><a href="{{ site.url }}">Home</a></div>
+          <h1>{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
           <ul class="tags">
             {% for tag in page.tags %}
               <li><a href="{{ site.url }}/tags#{{ tag }}">{{ tag }}</a></li>
