@@ -1,8 +1,8 @@
 ---
 layout: post
 hidden: true
-title:  "This is your first post"
-date:   2016-05-29
+title:  "First Post"
+date:   2017-10-24
 excerpt: "Have a look inside!"
 tag:
 - Happy Birthday
