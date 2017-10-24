@@ -1,5 +1,6 @@
 ---
 layout: post
+visible: 1
 title:  "Halve Jekyll Theme"
 date:   2016-05-29
 excerpt: "Stylish, two-column Jekyll theme for your blog."
