@@ -23,10 +23,12 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a class="navbutton" href="../posts.html" title="posts">BLOG</a>
-      <a class="navbutton" href="https://serenewraith.github.io" title="posts">HOME</a>
+      <div class="navbutton">
+      <a href="../posts.html" title="posts">BLOG</a>
+      <a href="https://serenewraith.github.io" title="posts">HOME</a>
         <span></span>
 </a>
+  </div>
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
