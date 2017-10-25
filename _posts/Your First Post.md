@@ -1,6 +1,6 @@
 ---
 layout: post
-hidden: true
+hidden: false
 title:  "First Post"
 date:   2017-10-24
 excerpt: "Have a look inside!"
