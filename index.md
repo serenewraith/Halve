@@ -3,7 +3,7 @@ layout: home
 ---
 # Happy Birthday Aelae!
 
-I was at a complete loss as to what to get or do for your birthday (seeing as I wasn't allowed to sing Happy Birthday on Discord).
+I wasn't sure what to get or do for your birthday (seeing as I wasn't allowed to sing Happy Birthday on Discord).
 
 Then, I remembered you wanted to become a streamer and that you used to write.
 
